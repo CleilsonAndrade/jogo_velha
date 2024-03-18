@@ -7,7 +7,7 @@
 # 📒 Índice
 
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -18,7 +18,7 @@
 # 📃 <span id="descrição">Descrição</span>
 O objetivo é aplicar e aprofundar conhecimentos em lógica de programação, utilizando HTML para estruturar o conteúdo do jogo, CSS para estilizar e criar uma interface atraente, e JavaScript para adicionar interatividade e lógica de jogo.
 
-## Features
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Identificar jogador<br>
 - [x] Identificar sequencias<br>
 - [x] Validação de vencedor<br>
