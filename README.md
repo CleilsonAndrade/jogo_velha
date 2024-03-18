@@ -5,7 +5,6 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
 * [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
@@ -47,7 +46,6 @@ O objetivo é aplicar e aprofundar conhecimentos em lógica de programação, ut
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
