@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Jogo Velha</h1>
-  <p>Este projeto apresenta a implementação de um Jogo da Velha interativo, desenvolvido com as tecnologias web HTML, CSS e JavaScript.</p>
+  <p>Este projeto apresenta a implementação de um Jogo da Velha interativo, desenvolvido com as tecnologias web HTML, CSS e JavaScript, visando estudos de logica de programação.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
