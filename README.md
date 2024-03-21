@@ -41,7 +41,7 @@ O objetivo é aplicar e aprofundar conhecimentos em lógica de programação, ut
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/jogo_velha
+  $ git clone https://github.com/CleilsonAndrade/jogo_velha.git
   $ cd ./jogo_velha
 ```
 
